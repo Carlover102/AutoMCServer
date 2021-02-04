@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   1.0   | :heavy_check_mark: |
+|  1.0.1  | :heavy_check_mark: |
 
 
 ## Reporting a Vulnerability
