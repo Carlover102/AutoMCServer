@@ -45,3 +45,5 @@ ________________________________________________________________________________
 Report a vulnerability by emailing me at my [email](mailto:zmanmustang2017@gmail.com)
 
 You can expect an update within 48 hours.
+
+# [Here](https://github.com/Carlover101/AutoMCServer) is the original project.
